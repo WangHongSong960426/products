@@ -14,10 +14,6 @@ if os.path.isfile('products.csv'):
 else:
     print('找不到檔案')
     
-
-#讀取檔案
-
-
 #請使用者輸入
 while True:
     name = input('請輸入商品名稱: ')
